@@ -1,0 +1,14 @@
+C:\Users\farza\source\repos\Meal\Meal\bin\Debug\Meal.exe.config
+C:\Users\farza\source\repos\Meal\Meal\bin\Debug\Meal.exe
+C:\Users\farza\source\repos\Meal\Meal\bin\Debug\Meal.pdb
+C:\Users\farza\source\repos\Meal\Meal\obj\Debug\Meal.csprojResolveAssemblyReference.cache
+C:\Users\farza\source\repos\Meal\Meal\obj\Debug\Meal.csproj.CoreCompileInputs.cache
+C:\Users\farza\source\repos\Meal\Meal\obj\Debug\Meal.exe
+C:\Users\farza\source\repos\Meal\Meal\obj\Debug\Meal.pdb
+C:\Users\farza\Google Drive\C #\source\repos\Meal\Meal\bin\Debug\Meal.exe.config
+C:\Users\farza\Google Drive\C #\source\repos\Meal\Meal\bin\Debug\Meal.exe
+C:\Users\farza\Google Drive\C #\source\repos\Meal\Meal\bin\Debug\Meal.pdb
+C:\Users\farza\Google Drive\C #\source\repos\Meal\Meal\obj\Debug\Meal.csprojResolveAssemblyReference.cache
+C:\Users\farza\Google Drive\C #\source\repos\Meal\Meal\obj\Debug\Meal.csproj.CoreCompileInputs.cache
+C:\Users\farza\Google Drive\C #\source\repos\Meal\Meal\obj\Debug\Meal.exe
+C:\Users\farza\Google Drive\C #\source\repos\Meal\Meal\obj\Debug\Meal.pdb
